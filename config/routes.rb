@@ -1,6 +1,5 @@
 Playlist::Application.routes.draw do
 #  get "/"
-# "HI"
 
 
 #  get "hello/index"
